@@ -1,12 +1,8 @@
 #titulo {
     font-size: 40px;
-    color: #363062;
-    background-color: #4D4C7D;
+    color: rgb(255, 255, 255);
+    background-color: #186F65;
 
-}
-
-body {
-    background-color: #F99417;
 }
 
 .texto {
@@ -15,9 +11,13 @@ body {
 
 }
 
+body {
+    background-color: #d7b388;
+}
+
 #texto {
     text-align: center;
-    color:#000000;
+    color: #000000;
 }
 
 footer {
